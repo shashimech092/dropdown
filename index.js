@@ -3,7 +3,7 @@ const citySelect=document.getElementById('citySelect')
 const cityLocations = {
     KA:["Bangalore", "Mysore", "Hubli", 'Bijapur', 'Bagalkot', 'Gulbarga'],
     MH:["Mumbai", "Pune", "Satata", 'Solapur', 'Kolhapur', 'Sangli'],
-    AP:["Vijaywada", "Visakhapatnam", "Chittor", 'Nellore', 'Kolhapur', 'Eluru']
+    AP:["Vijaywada", "Visakhapatnam", "Chittor", 'Nellore', 'Eluru']
     }
 
 stateSelect.addEventListener('change', function(){
